@@ -29,6 +29,19 @@
 #-----------------------------------------------------------------------------#
 system("git --version")
 
+install.packages("usethis")
+library(usethis)
+
+use_git()
+
+create_github_token()
+
+install.packages("gitcreds")
+library(gitcreds)
+
+gitcreds_set()
+
+use_github()
 
 # Remove all existing data from the Environment with 'rm' function
 rm(list = ls())  # remove all objects
