@@ -27,10 +27,7 @@
 #-----------------------------------------------------------------------------#
 # 1.1 Clear all objects from the R Environment prior to data exploration
 #-----------------------------------------------------------------------------#
-<<<<<<< HEAD
 
-=======
->>>>>>> acfcc9815fe54ee660df45641fd02a33f6e7f8e5
 # Remove all existing data from the Environment with 'rm' function
 rm(list = ls())  # remove all objects
 
