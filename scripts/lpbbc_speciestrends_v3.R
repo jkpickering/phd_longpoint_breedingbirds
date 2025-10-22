@@ -29,7 +29,6 @@
 #-----------------------------------------------------------------------------#
 system("git --version")
 
-git remote add origin https://github.com/jkpickering/r-phd-lpbbc-birdtrends
 
 # Remove all existing data from the Environment with 'rm' function
 rm(list = ls())  # remove all objects
