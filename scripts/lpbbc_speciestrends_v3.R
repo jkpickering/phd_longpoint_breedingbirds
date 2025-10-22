@@ -7,7 +7,7 @@
 # Author:         Joshua Pickering, PhD Candidate
 # Affiliation:    University of Waterloo
 # Creation Date:  2025-05-06
-# Last Updated:   2025-10-20
+# Last Updated:   2025-10-22
 
 # Description:    This script includes species trends for breeding bird census 
 #                 territory data collected at Long Point, Ontario, Canada from
@@ -37,6 +37,9 @@ getwd() # view working directory filepath
 # Check version of R for script
 R.version.string # version R check
 
+list.files("../data")
+
+
 #-----------------------------------------------------------------------------#
 # 1.3 Identify and install necessary R packages
 #-----------------------------------------------------------------------------#
@@ -56,6 +59,7 @@ list.of.packages <- c(
   "ggrepel",      # avoid label overlap in ggplot2
   "ggtext",       # enhanced text formatting in ggplot2
   "grid",         # base R graphics system for layout control
+  "here",         # project working directory organizer
   "htmlwidgets",  # customizable interactive visualizations
   "lme4",         # linear and generalized linear mixed models
   "mgcv",         # flexible smoothing with generalized additive models (GAMs)
@@ -94,8 +98,15 @@ lapply(list.of.packages, # vector of listed packages
 #-----------------------------------------------------------------------------#
 
 # Import data from csv file
-bird_territories <- read.csv("../data/bird_species_territories_v1.csv", # data
-                            header = T) # specify data headers
+bird_territories <- read.csv("data/bird_species_territories_v1.csv", # data set
+                             header = TRUE) # specify data has headers
+
+# OPTIONAL: If error, use the here() function to import data file
+# Remove text format (i.e., '#') to run code
+#bird_territories <- read.csv( # import csv data file
+  #here( # file selection function 
+    #"data", # specify folder
+    #"bird_species_territories_v1.csv")) # data set
 
 # Check for missing values within the data
 any(is.na(bird_territories)) # identify if any data are 'n.a.' or missing
@@ -112,8 +123,8 @@ summary(bird_territories) # Summarize key information within the dataset
 #-----------------------------------------------------------------------------#
 
 # Import data from csv file, saved in the 'data' sub-folder of the rproject
-bird_traits <- read.csv("../data/bird_species_traits_v2.csv", # specify data
-                                    header = T) # specify data headers
+bird_traits <- read.csv("data/bird_species_traits_v2.csv", # data set
+                             header = TRUE) # specify data has headers
 
 # Check for missing values within the data
 any(is.na(bird_traits)) # identify if any data are 'n.a.' or missing
@@ -130,8 +141,8 @@ summary(bird_traits) # summarize key information within the dataset
 #-----------------------------------------------------------------------------#
 
 # Import data from csv file, saved in the 'data' sub-folder of the rproject
-site_traits <- read.csv("../data/site_env_characteristics_v1.csv", # data set
-                        header = T) # specify data headers
+site_traits <- read.csv("data/site_env_characteristics_v1.csv", # data set
+                        header = TRUE) # specify data has headers
 
 # Check for missing values within the data
 any(is.na(site_traits)) # identify if any data are 'n.a.' or missing
@@ -148,36 +159,42 @@ summary(site_traits) # Summarize key information within the dataset
 # data for analyses
 #-----------------------------------------------------------------------------#
 
-bird_territories_with_traits <- full_join(bird_territories, # specify data
-                                          bird_traits, # specify data
-                                          by = c("species_4code_IBP")) # join
+# Join data sets
+bird_territories_with_traits <- full_join( # join entire data sets
+  bird_territories, # specify data
+  bird_traits, # specify data
+  by = c("species_4code_IBP")) # join by specified column
 
 #-----------------------------------------------------------------------------#
 # 2.5 Join species information data "speciesdescription.data" with territory 
 # data for analyses
 #-----------------------------------------------------------------------------#
 
-bird_territories_with_traits <- full_join(bird_territories_with_traits,
-                                          site_traits, # specify data
-                                          by = c("sitecode")) # specify join
+# Join data sets
+bird_territories_with_traits <- full_join( # join entire data sets
+  bird_territories_with_traits, # specify data
+  site_traits, # specify data
+  by = c("sitecode")) # join by specified column
 
 #-----------------------------------------------------------------------------#
 # 2.6 Organize species into specified management groups and guilds
 #-----------------------------------------------------------------------------#
 
-bird_territories_with_traits[] <- lapply(
-  bird_territories_with_traits,
-  function(x) {
-    if (is.character(x)) {
-      Encoding(x) <- "UTF-8"
-      return(iconv(x, from = "", to = "UTF-8", sub = "byte"))
-    } else {
-      return(x)
-    }
-  }
-)
+# OPTIONAL: Establish the format for all column names is relevant for analyses
+# Remove text format (i.e., '#') to run code
+#bird_territories_with_traits[] <- lapply( # specify for lapply() function
+  #bird_territories_with_traits, # specify data set
+  #function(x) { # create function
+    #if (is.character(x)) { # if statement for format
+      #Encoding(x) <- "UTF-8" # specify format
+      #return(iconv(x, from = "", to = "UTF-8", sub = "byte")) # format
+    #} else { # specify default
+      #return(x) #specify return from default
+    #}})
 
-datatable(bird_territories_with_traits)
+# OPTIONAL: Create data table from data set
+# Remove text format (i.e., '#') to run code
+#datatable(bird_territories_with_traits) # specify with datatable() function
 
 #-----------------------------------------------------------------------------#
 #-----------------------------------------------------------------------------#
@@ -190,10 +207,15 @@ datatable(bird_territories_with_traits)
 # limitations, and statistical requirements
 #-----------------------------------------------------------------------------#
 
-# Identify species present in >4 unique years
-species_years <- aggregate(year ~ sp_common_name_uppercase_IBP, # specify header
-                           bird_territories_with_traits, # specify data
-                           function(x) length(unique(x))) # identify unique year
+# Identify how many years of sampling a species was found
+species_years <- aggregate( # aggregate function for organizing data
+  year ~ sp_common_name_uppercase_IBP, # specify header
+  bird_territories_with_traits, # specify data set
+  function(x) length(unique(x))) # identify the number of unique years
+
+# OPTIONAL: View the results for sampling result for all species
+# Remove text format (i.e., '#') to run code
+#view(species_years)
 
 # Specify list of species to exclude from analyses (i.e., late nesters, raptors,
 # shorebirds, secretive wetland birds, colonial nesters)
@@ -350,10 +372,10 @@ for (sp in species_list) { # specify loop for all species
   
   # OPTIONAL: Save each plot as a PNG
   # Remove text format (i.e., '#') from each line to run code
-  ggsave(filename = paste0("../results/plots/GAMM_trend_", sp, ".png"), #label
-         plot = p, # specify plot
-         width = 9.69, # specify plot print size
-         height = 7.30) # specify plot print size
+  #ggsave(filename = paste0("results/plots/GAMM_trend_", sp, ".png"), #label
+         #plot = p, # specify plot
+         #width = 9.69, # specify plot print size
+         #height = 7.30) # specify plot print size
 }
 
 #-----------------------------------------------------------------------------#
@@ -425,16 +447,9 @@ for (sp in species_list) {
   print(p)
 }
 
-
 #-----------------------------------------------------------------------------#
 # 3.4 Check model results (k-index, p-value, and ehf values)
 #-----------------------------------------------------------------------------#
-
-# loop species to conduct model checks
-for (sp in names(species_models)) { # specify loop for all species
-  message(paste("Running gam.check for species:", sp)) # specify message limits
-  gam.check(species_models[[sp]]$gam) # run model checks for GAMM
-}
 
 # Create an empty list to store model check results
 model_check_results <- list()
@@ -484,6 +499,13 @@ print(model_check_table, n = 45)
 # A potentially underfitting result is when k-index < 1 and p-value < 0.05. Try
 # increasing k in model to have better fit as the smoother might be too 
 # constrained to capture the shape of the data
+
+# OPTIONAL: Loop species to conduct model checks and rough print them (console)
+# Remove text format (i.e., '#') from each line to run code
+#for (sp in names(species_models)) { # specify loop for all species
+  #message(paste("Running gam.check for species:", sp)) # specify message limits
+  #gam.check(species_models[[sp]]$gam) # run model checks for GAMM
+#}
 
 #-----------------------------------------------------------------------------#
 #-----------------------------------------------------------------------------#
