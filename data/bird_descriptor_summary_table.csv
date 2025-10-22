@@ -1,0 +1,37 @@
+Breeding.Biome,
+Boreal Forest,6
+Eastern Forest,34
+Forest Generalist,21
+Grassland,3
+Habitat Generalist,18
+Introduced,1
+Wetland,17
+bird.group,
+landbird,84
+other,1
+shorebird,4
+waterbird,6
+waterfowl,5
+habitat_guild_BOTW,
+forests,35
+grasslands,8
+lakes and ponds,8
+marshes,11
+open woodlands,26
+rivers and streams,1
+scrub,6
+shorelines,1
+towns,4
+nest_guild_BOTW,
+building,2
+burrow,3
+cavity,21
+floating,2
+ground,21
+shrub,16
+tree,35
+Aerial Insectivore,9
+conservation_status_BOTW,
+common bird in steep decline,9
+declining,8
+low concern,83

@@ -1,0 +1,101 @@
+species,hab_guild,food_item,nest_guild,forage_behavior,cons_status
+ABDU,lakes and ponds,insects,ground,dabbler,low concern
+AMBI,marshes,fish,ground,stalking,low concern
+AMCR,open woodlands,omnivore,tree,ground forager,low concern
+AMGO,open woodlands,seeds,shrub,foliage gleaner,low concern
+AMKE,grasslands,small animals,cavity,aerial dive,low concern
+AMRE,forests,insects,tree,foliage gleaner,low concern
+AMRO,open woodlands,insects,tree,ground forager,low concern
+AMWO,forests,insects,ground,probing,declining
+BAEA,forests,fish,tree,soaring,low concern
+BANS,lakes and ponds,insects,burrow,aerial forager,common bird in steep decline
+BAOR,forests,insects,tree,foliage gleaner,low concern
+BBCU,forests,insects,tree,foliage gleaner,declining
+BCCH,forests,insects,cavity,foliage gleaner,low concern
+BEKI,lakes and ponds,fish,burrow,aerial dive,low concern
+BGGN,forests,insects,tree,foliage gleaner,low concern
+BHCO,grasslands,seeds,tree,ground forager,low concern
+BLBW,forests,insects,tree,foliage gleaner,low concern
+BLJA,forests,omnivore,tree,ground forager,low concern
+BOBO,grasslands,seeds,ground,ground forager,declining
+BRCR,forests,insects,tree,bark forager,low concern
+BRTH,scrub,omnivore,shrub,ground forager,low concern
+BTNW,forests,insects,tree,foliage gleaner,low concern
+CAGO,marshes,seeds,ground,ground forager,low concern
+CARW,open woodlands,insects,cavity,ground forager,low concern
+CAWA,forests,insects,ground,foliage gleaner,declining
+CEDW,open woodlands,fruit,tree,foliage gleaner,low concern
+CHSP,open woodlands,seeds,shrub,ground forager,low concern
+CHSW,towns,insects,building,aerial forager,declining
+COGR,open woodlands,omnivore,tree,ground forager,common bird in steep decline
+COHA,forests,birds,tree,aerial forager,low concern
+CONI,grasslands,insects,ground,aerial forager,common bird in steep decline
+COYE,scrub,insects,shrub,foliage gleaner,low concern
+CSWA,open woodlands,insects,shrub,foliage gleaner,low concern
+CWWI,open woodlands,insects,ground,aerial forager,common bird in steep decline
+DOWO,forests,insects,cavity,bark forager,low concern
+EABL,grasslands,insects,cavity,ground forager,low concern
+EAKI,grasslands,insects,tree,flycatching,low concern
+EAME,grasslands,insects,ground,ground forager,common bird in steep decline
+EAPH,open woodlands,insects,building,flycatching,low concern
+EASO,forests,small animals,cavity,aerial dive,low concern
+EATO,scrub,omnivore,ground,ground forager,low concern
+EAWP,forests,insects,tree,flycatching,low concern
+EUST,towns,insects,cavity,ground forager,low concern
+EWPW,open woodlands,insects,ground,aerial forager,declining
+FISP,scrub,insects,ground,ground forager,common bird in steep decline
+GCFL,open woodlands,insects,cavity,flycatching,low concern
+GHOW,forests,mammals,tree,aerial dive,low concern
+GRCA,open woodlands,insects,shrub,ground forager,low concern
+GRHE,marshes,fish,tree,stalking,common bird in steep decline
+HAWO,forests,insects,cavity,bark forager,low concern
+HOFI,towns,seeds,tree,ground forager,low concern
+HOME,lakes and ponds,fish,cavity,surface dive,low concern
+HOWR,scrub,insects,cavity,foliage gleaner,low concern
+INBU,open woodlands,insects,shrub,foliage gleaner,low concern
+KILL,grasslands,insects,ground,ground forager,low concern
+LEBI,marshes,fish,ground,stalking,low concern
+LEFL,forests,insects,tree,flycatching,common bird in steep decline
+MALL,lakes and ponds,omnivore,ground,dabbler,low concern
+MAWA,forests,insects,tree,foliage gleaner,low concern
+MAWR,marshes,insects,shrub,ground forager,low concern
+MODO,open woodlands,seeds,tree,ground forager,low concern
+NOCA,open woodlands,seeds,shrub,ground forager,low concern
+NOFL,open woodlands,insects,cavity,ground forager,low concern
+NOGO,forests,birds,tree,aerial dive,low concern
+NOMO,towns,omnivore,shrub,ground forager,low concern
+NRWS,rivers and streams,insects,burrow,aerial forager,low concern
+NSWO,forests,mammals,cavity,aerial dive,low concern
+OROR,open woodlands,insects,tree,foliage gleaner,low concern
+PBGR,lakes and ponds,aquatic invertebrates,floating,surface dive,low concern
+PIWA,forests,insects,tree,bark forager,low concern
+PROW,forests,insects,cavity,foliage gleaner,declining
+RBGR,forests,insects,tree,foliage gleaner,low concern
+RBNU,forests,insects,cavity,bark forager,low concern
+RBWO,forests,insects,cavity,bark forager,low concern
+REVI,forests,insects,tree,foliage gleaner,low concern
+RHWO,open woodlands,omnivore,cavity,flycatching,declining
+RTHA,forests,small animals,tree,soaring,low concern
+RTHU,open woodlands,nectar,tree,hovering,low concern
+RWBL,marshes,insects,shrub,ground forager,low concern
+SCTA,forests,insects,tree,foliage gleaner,low concern
+SORA,marshes,seeds,floating,ground forager,low concern
+SOSP,open woodlands,insects,shrub,ground forager,low concern
+SPSA,shorelines,small animals,ground,probing,low concern
+SSHA,forests,birds,tree,aerial dive,low concern
+SWSP,marshes,insects,shrub,ground forager,low concern
+TRES,lakes and ponds,insects,cavity,aerial forager,low concern
+VEER,forests,insects,ground,ground forager,low concern
+VIRA,marshes,aquatic invertebrates,ground,probing,low concern
+WAVI,open woodlands,insects,tree,foliage gleaner,low concern
+WBNU,forests,insects,cavity,bark forager,low concern
+WEVI,scrub,insects,shrub,foliage gleaner,low concern
+WIFL,marshes,insects,shrub,flycatching,low concern
+WISN,marshes,aquatic invertebrates,ground,probing,low concern
+WITU,open woodlands,omnivore,ground,ground forager,low concern
+WIWR,forests,insects,cavity,ground forager,low concern
+WODU,lakes and ponds,plants,cavity,dabbler,low concern
+WTSP,forests,seeds,ground,ground forager,low concern
+YBCU,open woodlands,insects,tree,foliage gleaner,common bird in steep decline
+YTVI,open woodlands,insects,tree,foliage gleaner,low concern
+YWAR,open woodlands,insects,shrub,foliage gleaner,low concern

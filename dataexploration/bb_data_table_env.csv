@@ -1,0 +1,154 @@
+unique,sampling_year_yyyy,site_size_ha,site_code_abcd,site_name
+1991 ROMS,1991,7.9,ROMS,Red Oak - Sugar Maple Savannah
+1991 ROWB,1991,8.9,ROWB,Red Oak - White Birch Savannah
+1991 ROIS,1991,9.2,ROIS,Red Oak - Ironwood Savannah
+1991 DCSD,1991,10.2,DCSD,Dry Cottonwood Sand Dune
+1991 IDSS,1991,10.9,IDSS,Intergrading Dune - Swale Savannah
+1991 TMSL,1991,11,TMSL,Tamarack Slough
+1991 DCJS,1991,11.3,DCJS,Dry Cottonwood - Juniper Savannah
+1991 ROWP,1991,11.4,ROWP,Red Oak - White Pine Savannah
+1991 ROMF,1991,12.5,ROMF,Red Oak - Sugar Maple Forest
+1991 WPWC,1991,12.8,WPWC,White Pine - White Cedar Savannah
+1991 RARO,1991,13.1,RARO,Red Ash - Red Oak Savannah
+1991 SRS1,1991,13.6,SRS1,Sedge - Rush Swale #1
+1991 BGGR,1991,13.7,BGGR,Bluegrass - Milkweed Grassland
+1991 SRS2,1991,14.6,SRS2,Sedge - Rush Swale #2
+1991 STDP,1991,15,STDP,Sedge - Tamarack Dune Pond
+1992 ROIS,1992,9.2,ROIS,Red Oak - Ironwood Savannah
+1992 DCSD,1992,10.2,DCSD,Dry Cottonwood Sand Dune
+1992 TMSL,1992,11,TMSL,Tamarack Slough
+1992 RARO,1992,13.1,RARO,Red Ash - Red Oak Savannah
+1993 IDSS,1993,10.9,IDSS,Intergrading Dune - Swale Savannah
+1993 WPWC,1993,12.8,WPWC,White Pine - White Cedar Savannah
+1993 SRS1,1993,13.6,SRS1,Sedge - Rush Swale #1
+1993 SRS2,1993,14.6,SRS2,Sedge - Rush Swale #2
+1993 STDP,1993,15,STDP,Sedge - Tamarack Dune Pond
+1994 ROMS,1994,7.9,ROMS,Red Oak - Sugar Maple Savannah
+1994 ROWB,1994,8.9,ROWB,Red Oak - White Birch Savannah
+1994 ROWP,1994,11.4,ROWP,Red Oak - White Pine Savannah
+1994 ROMF,1994,12.5,ROMF,Red Oak - Sugar Maple Forest
+1995 IDSS,1995,10.9,IDSS,Intergrading Dune - Swale Savannah
+1995 DCJS,1995,11.3,DCJS,Dry Cottonwood - Juniper Savannah
+1995 WPWC,1995,12.8,WPWC,White Pine - White Cedar Savannah
+1995 BGGR,1995,13.7,BGGR,Bluegrass - Milkweed Grassland
+1996 ROIS,1996,9.2,ROIS,Red Oak - Ironwood Savannah
+1996 DCSD,1996,10.2,DCSD,Dry Cottonwood Sand Dune
+1996 TMSL,1996,11,TMSL,Tamarack Slough
+1996 RARO,1996,13.1,RARO,Red Ash - Red Oak Savannah
+1997 ROWB,1997,8.9,ROWB,Red Oak - White Birch Savannah
+1997 IDSS,1997,10.9,IDSS,Intergrading Dune - Swale Savannah
+1997 ROWP,1997,11.4,ROWP,Red Oak - White Pine Savannah
+1997 SRS1,1997,13.6,SRS1,Sedge - Rush Swale #1
+1997 SRS2,1997,14.6,SRS2,Sedge - Rush Swale #2
+1998 ROMS,1998,7.9,ROMS,Red Oak - Sugar Maple Savannah
+1998 WPWC,1998,12.8,WPWC,White Pine - White Cedar Savannah
+1998 BGGR,1998,13.7,BGGR,Bluegrass - Milkweed Grassland
+1998 STDP,1998,15,STDP,Sedge - Tamarack Dune Pond
+1999 ROMS,1999,7.9,ROMS,Red Oak - Sugar Maple Savannah
+1999 DCJS,1999,11.3,DCJS,Dry Cottonwood - Juniper Savannah
+1999 ROMF,1999,12.5,ROMF,Red Oak - Sugar Maple Forest
+1999 RARO,1999,13.1,RARO,Red Ash - Red Oak Savannah
+2000 ROIS,2000,9.2,ROIS,Red Oak - Ironwood Savannah
+2000 TMSL,2000,11,TMSL,Tamarack Slough
+2000 DCJS,2000,11.3,DCJS,Dry Cottonwood - Juniper Savannah
+2000 ROMF,2000,12.5,ROMF,Red Oak - Sugar Maple Forest
+2001 ROIS,2001,9.2,ROIS,Red Oak - Ironwood Savannah
+2001 DCSD,2001,10.2,DCSD,Dry Cottonwood Sand Dune
+2001 TMSL,2001,11,TMSL,Tamarack Slough
+2001 RARO,2001,13.1,RARO,Red Ash - Red Oak Savannah
+2002 ROWB,2002,8.9,ROWB,Red Oak - White Birch Savannah
+2002 ROWP,2002,11.4,ROWP,Red Oak - White Pine Savannah
+2002 WPWC,2002,12.8,WPWC,White Pine - White Cedar Savannah
+2002 SRS1,2002,13.6,SRS1,Sedge - Rush Swale #1
+2002 SRS2,2002,14.6,SRS2,Sedge - Rush Swale #2
+2003 IDSS,2003,10.9,IDSS,Intergrading Dune - Swale Savannah
+2003 WPWC,2003,12.8,WPWC,White Pine - White Cedar Savannah
+2003 BGGR,2003,13.7,BGGR,Bluegrass - Milkweed Grassland
+2003 STDP,2003,15,STDP,Sedge - Tamarack Dune Pond
+2004 ROMS,2004,7.9,ROMS,Red Oak - Sugar Maple Savannah
+2004 IDSS,2004,10.9,IDSS,Intergrading Dune - Swale Savannah
+2004 DCJS,2004,11.3,DCJS,Dry Cottonwood - Juniper Savannah
+2004 ROMF,2004,12.5,ROMF,Red Oak - Sugar Maple Forest
+2005 ROMS,2005,7.9,ROMS,Red Oak - Sugar Maple Savannah
+2005 ROIS,2005,9.2,ROIS,Red Oak - Ironwood Savannah
+2005 TMSL,2005,11,TMSL,Tamarack Slough
+2006 IDSS,2006,10.9,IDSS,Intergrading Dune - Swale Savannah
+2006 STDP,2006,15,STDP,Sedge - Tamarack Dune Pond
+2007 WPWC,2007,12.8,WPWC,White Pine - White Cedar Savannah
+2007 SRS1,2007,13.6,SRS1,Sedge - Rush Swale #1
+2007 SRS2,2007,14.6,SRS2,Sedge - Rush Swale #2
+2008 ROWB,2008,8.9,ROWB,Red Oak - White Birch Savannah
+2008 DCSD,2008,10.2,DCSD,Dry Cottonwood Sand Dune
+2008 IDSS,2008,10.9,IDSS,Intergrading Dune - Swale Savannah
+2008 ROWP,2008,11.4,ROWP,Red Oak - White Pine Savannah
+2008 RARO,2008,13.1,RARO,Red Ash - Red Oak Savannah
+2008 BGGR,2008,13.7,BGGR,Bluegrass - Milkweed Grassland
+2009 ROMS,2009,7.9,ROMS,Red Oak - Sugar Maple Savannah
+2009 ROIS,2009,9.2,ROIS,Red Oak - Ironwood Savannah
+2009 TMSL,2009,11,TMSL,Tamarack Slough
+2009 DCJS,2009,11.3,DCJS,Dry Cottonwood - Juniper Savannah
+2009 ROMF,2009,12.5,ROMF,Red Oak - Sugar Maple Forest
+2009 STDP,2009,15,STDP,Sedge - Tamarack Dune Pond
+2010 ROMS,2010,7.9,ROMS,Red Oak - Sugar Maple Savannah
+2010 ROIS,2010,9.2,ROIS,Red Oak - Ironwood Savannah
+2010 DCJS,2010,11.3,DCJS,Dry Cottonwood - Juniper Savannah
+2010 ROMF,2010,12.5,ROMF,Red Oak - Sugar Maple Forest
+2010 RARO,2010,13.1,RARO,Red Ash - Red Oak Savannah
+2010 SRS1,2010,13.6,SRS1,Sedge - Rush Swale #1
+2010 SRS2,2010,14.6,SRS2,Sedge - Rush Swale #2
+2011 IDSS,2011,10.9,IDSS,Intergrading Dune - Swale Savannah
+2011 BGGR,2011,13.7,BGGR,Bluegrass - Milkweed Grassland
+2011 STDP,2011,15,STDP,Sedge - Tamarack Dune Pond
+2012 IDSS,2012,10.9,IDSS,Intergrading Dune - Swale Savannah
+2012 TMSL,2012,11,TMSL,Tamarack Slough
+2012 DCJS,2012,11.3,DCJS,Dry Cottonwood - Juniper Savannah
+2012 WPWC,2012,12.8,WPWC,White Pine - White Cedar Savannah
+2013 ROWB,2013,8.9,ROWB,Red Oak - White Birch Savannah
+2013 DCSD,2013,10.2,DCSD,Dry Cottonwood Sand Dune
+2013 SRS1,2013,13.6,SRS1,Sedge - Rush Swale #1
+2013 SRS2,2013,14.6,SRS2,Sedge - Rush Swale #2
+2016 ROMS,2016,7.9,ROMS,Red Oak - Sugar Maple Savannah
+2016 ROWB,2016,8.9,ROWB,Red Oak - White Birch Savannah
+2016 ROIS,2016,9.2,ROIS,Red Oak - Ironwood Savannah
+2016 DCSD,2016,10.2,DCSD,Dry Cottonwood Sand Dune
+2016 IDSS,2016,10.9,IDSS,Intergrading Dune - Swale Savannah
+2016 TMSL,2016,11,TMSL,Tamarack Slough
+2016 DCJS,2016,11.3,DCJS,Dry Cottonwood - Juniper Savannah
+2016 ROWP,2016,11.4,ROWP,Red Oak - White Pine Savannah
+2016 ROMF,2016,12.5,ROMF,Red Oak - Sugar Maple Forest
+2016 WPWC,2016,12.8,WPWC,White Pine - White Cedar Savannah
+2016 RARO,2016,13.1,RARO,Red Ash - Red Oak Savannah
+2016 SRS1,2016,13.6,SRS1,Sedge - Rush Swale #1
+2016 BGGR,2016,13.7,BGGR,Bluegrass - Milkweed Grassland
+2016 SRS2,2016,14.6,SRS2,Sedge - Rush Swale #2
+2016 STDP,2016,15,STDP,Sedge - Tamarack Dune Pond
+2017 ROWB,2017,8.9,ROWB,Red Oak - White Birch Savannah
+2017 TMSL,2017,11,TMSL,Tamarack Slough
+2017 ROWP,2017,11.4,ROWP,Red Oak - White Pine Savannah
+2017 WPWC,2017,12.8,WPWC,White Pine - White Cedar Savannah
+2017 RARO,2017,13.1,RARO,Red Ash - Red Oak Savannah
+2018 ROMS,2018,7.9,ROMS,Red Oak - Sugar Maple Savannah
+2018 IDSS,2018,10.9,IDSS,Intergrading Dune - Swale Savannah
+2018 DCJS,2018,11.3,DCJS,Dry Cottonwood - Juniper Savannah
+2018 ROMF,2018,12.5,ROMF,Red Oak - Sugar Maple Forest
+2018 STDP,2018,15,STDP,Sedge - Tamarack Dune Pond
+2019 ROMS,2019,7.9,ROMS,Red Oak - Sugar Maple Savannah
+2019 ROWB,2019,8.9,ROWB,Red Oak - White Birch Savannah
+2019 ROIS,2019,9.2,ROIS,Red Oak - Ironwood Savannah
+2019 ROWP,2019,11.4,ROWP,Red Oak - White Pine Savannah
+2019 RARO,2019,13.1,RARO,Red Ash - Red Oak Savannah
+2021 ROMS,2021,7.9,ROMS,Red Oak - Sugar Maple Savannah
+2021 ROWB,2021,8.9,ROWB,Red Oak - White Birch Savannah
+2021 ROIS,2021,9.2,ROIS,Red Oak - Ironwood Savannah
+2021 DCSD,2021,10.2,DCSD,Dry Cottonwood Sand Dune
+2021 IDSS,2021,10.9,IDSS,Intergrading Dune - Swale Savannah
+2021 TMSL,2021,11,TMSL,Tamarack Slough
+2021 DCJS,2021,11.3,DCJS,Dry Cottonwood - Juniper Savannah
+2021 ROWP,2021,11.4,ROWP,Red Oak - White Pine Savannah
+2021 ROMF,2021,12.5,ROMF,Red Oak - Sugar Maple Forest
+2021 WPWC,2021,12.8,WPWC,White Pine - White Cedar Savannah
+2021 RARO,2021,13.1,RARO,Red Ash - Red Oak Savannah
+2021 SRS1,2021,13.6,SRS1,Sedge - Rush Swale #1
+2021 BGGR,2021,13.7,BGGR,Bluegrass - Milkweed Grassland
+2021 SRS2,2021,14.6,SRS2,Sedge - Rush Swale #2
+2021 STDP,2021,15,STDP,Sedge - Tamarack Dune Pond

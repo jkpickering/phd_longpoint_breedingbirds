@@ -1,0 +1,46 @@
+sampling_year_yyyy,site_size_ha,site_code_abcd,site_name,species_richness
+1991,7.9,ROMS,Red Oak - Sugar Maple Savannah,25
+1991,8.9,ROWB,Red Oak - White Birch Savannah,25
+1991,9.2,ROIS,Red Oak - Ironwood Savannah,27
+1991,10.2,DCSD,Dry Cottonwood Sand Dune,7
+1991,10.9,IDSS,Intergrading Dune - Swale Savannah,10
+1991,11,TMSL,Tamarack Slough,28
+1991,11.3,DCJS,Dry Cottonwood - Juniper Savannah,10
+1991,11.4,ROWP,Red Oak - White Pine Savannah,20
+1991,12.5,ROMF,Red Oak - Sugar Maple Forest,25
+1991,12.8,WPWC,White Pine - White Cedar Savannah,24
+1991,13.1,RARO,Red Ash - Red Oak Savannah,26
+1991,13.6,SRS1,Sedge - Rush Swale #1,5
+1991,13.7,BGGR,Bluegrass - Milkweed Grassland,12
+1991,14.6,SRS2,Sedge - Rush Swale #2,6
+1991,15,STDP,Sedge - Tamarack Dune Pond,10
+2016,7.9,ROMS,Red Oak - Sugar Maple Savannah,35
+2016,8.9,ROWB,Red Oak - White Birch Savannah,26
+2016,9.2,ROIS,Red Oak - Ironwood Savannah,34
+2016,10.2,DCSD,Dry Cottonwood Sand Dune,13
+2016,10.9,IDSS,Intergrading Dune - Swale Savannah,15
+2016,11,TMSL,Tamarack Slough,27
+2016,11.3,DCJS,Dry Cottonwood - Juniper Savannah,14
+2016,11.4,ROWP,Red Oak - White Pine Savannah,29
+2016,12.5,ROMF,Red Oak - Sugar Maple Forest,34
+2016,12.8,WPWC,White Pine - White Cedar Savannah,28
+2016,13.1,RARO,Red Ash - Red Oak Savannah,34
+2016,13.6,SRS1,Sedge - Rush Swale #1,10
+2016,13.7,BGGR,Bluegrass - Milkweed Grassland,14
+2016,14.6,SRS2,Sedge - Rush Swale #2,10
+2016,15,STDP,Sedge - Tamarack Dune Pond,16
+2021,7.9,ROMS,Red Oak - Sugar Maple Savannah,35
+2021,8.9,ROWB,Red Oak - White Birch Savannah,34
+2021,9.2,ROIS,Red Oak - Ironwood Savannah,35
+2021,10.2,DCSD,Dry Cottonwood Sand Dune,12
+2021,10.9,IDSS,Intergrading Dune - Swale Savannah,20
+2021,11,TMSL,Tamarack Slough,29
+2021,11.3,DCJS,Dry Cottonwood - Juniper Savannah,17
+2021,11.4,ROWP,Red Oak - White Pine Savannah,32
+2021,12.5,ROMF,Red Oak - Sugar Maple Forest,33
+2021,12.8,WPWC,White Pine - White Cedar Savannah,27
+2021,13.1,RARO,Red Ash - Red Oak Savannah,35
+2021,13.6,SRS1,Sedge - Rush Swale #1,13
+2021,13.7,BGGR,Bluegrass - Milkweed Grassland,16
+2021,14.6,SRS2,Sedge - Rush Swale #2,11
+2021,15,STDP,Sedge - Tamarack Dune Pond,24

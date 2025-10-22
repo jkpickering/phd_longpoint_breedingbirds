@@ -1,0 +1,318 @@
+---
+title: "Statistical Analyses for Doctoral (PhD) Thesis: Breeding Birds"
+author: "Joshua K Pickering"
+date: "2024-07-25"
+output: 
+  prettydoc::html_pretty:
+    theme:
+      leonids
+---
+
+# Set up work file
+Review R version
+
+```{r Identify R Version, echo=TRUE}
+# Identify version of R
+R.version
+```
+
+Set working directory
+
+```{r Set Working Directory, echo=TRUE}
+# Set working directory
+setwd("D:/PhDThesis_RWorkingDirectory/rmd")
+```
+
+Load required packages
+
+```{r Loading Required Packages, error=FALSE, message=FALSE, warning=FALSE, results='hide'}
+# Load required packages (Alphabetically sorted)
+library(ade4)
+library(adespatial)
+library(betareg)
+library(brms)
+library(data.table)
+library(devtools)
+library(dplyr)
+library(effects)
+library(emmeans)
+library(ggConvexHull)
+library(ggforce)
+library(ggplot2)
+library(ggpubr)
+library(glmm)
+library(gpboost)
+library(grid)
+library(lme4)
+library(lmtest)
+library(memisc)
+library(patchwork)
+library(plot3D)
+library(RColorBrewer)
+library(readr)
+library(rgl)
+library(rlist)
+library(rstan)
+library(rstatix)
+library(scales)
+library(scatterplot3d)
+library(tibble)
+library(tidyquant)
+library(tidyverse)
+library(vegan)
+library(vegan3d)
+
+# Periodically review necessary installed packages
+```
+
+
+# Data Visualization
+
+```{r Data Visualization, echo=TRUE}
+
+# Import data set (read.csv function)
+bird_data <- read.csv("bird_data.csv", header = TRUE)
+
+# Explore the occurrence of data under a specific variable (barplot function)
+barplot(sort(table(bird_data$species_common_name), decreasing = TRUE))
+
+# Explore the occurrence of data under a specific variable (boxplot function)
+boxplot(bird_data$breeding_territories)
+
+# Explore the occurrence of data within bins (i.e., 0-5, 5-10) under a specific variable (hist function)
+hist(bird_data$breeding_territories)
+```
+
+# NMDS ggplot, comparing 1991 to 2016 and 2021 communities.
+
+```{r}
+
+# Import data set from csv file
+bb_territories_matrix <- read.csv("bb_territories_matrix_91_16_21.csv", header = TRUE)
+
+# NMDS analysis of community data
+bb_nmds_results <- metaMDS(comm = bb_territories_matrix[ , 4:86],
+                           distance = "bray",
+                           try = 100)
+
+# Add NMDS results with original data through column binding
+bb_territories_matrix = bind_cols(bb_territories_matrix, bb_nmds_results$points)
+
+# Use ggplot function to plot NMDS results by year
+bb_territories_matrix %>% 
+  ggplot(aes(x = MDS1, y = MDS2)) +
+  geom_point() +
+  geom_convexhull(aes(colour = sampling_year_yyyy), alpha = 0.3) +
+  facet_grid(.~ sampling_year_yyyy) +
+  coord_fixed()
+
+# Use ggplot function to plot NMDS results for all years
+bb_distance_matrix_1992 = bb_territories_matrix %>% 
+  dplyr::filter(sampling_year_yyyy != 1991)
+bb_distance_1992 = bb_territories_matrix %>% 
+  dplyr::filter(sampling_year_yyyy == 1991)
+
+# Use ggplot function to plot NMDS results for all years compared to 1992 with hulls
+bb_distance_matrix_1992 %>% 
+  group_by(sampling_year_yyyy) %>% 
+  nest() %>% 
+  pull() %>% 
+  map(function(ind.year){
+    ggplot(NULL, aes(x = MDS1, y = MDS2)) +
+      geom_point(data = bb_distance_1992, 
+                 color = "black") +
+      geom_convexhull(data = bb_distance_1992, 
+                      color = "black", 
+                      fill = "white",
+                      alpha = 0.2) +
+      geom_point(data = ind.year,
+                 color = "blue") +
+      geom_convexhull(data = ind.year, 
+                      color = "blue", 
+                      fill = "grey",
+                      alpha = 0.2) +
+      coord_fixed() +
+      xlim(c(-2.5, 2.5)) +
+      ylim(c(-2.0, 2.0)) +
+      xlab("NMDS1") +
+      ylab("NMDS2") +
+      theme_set(theme_classic(base_size = 20)) +
+      theme(panel.background = element_rect(fill = "white",
+                                            colour = "black",
+                                            size = 1, 
+                                            linetype = "solid")
+      )
+  })
+
+```
+
+# NMDS Functional Code
+
+```{r}
+
+# FUNCTIONAL
+
+# NMDS for GGPLOT by data and env data
+
+bb_community_data <- read.csv("bbc_91-16-21_community_data.csv", header = TRUE)
+
+bb_community_env <- read.csv("bbc_91-16-21_community_env.csv", header = TRUE)
+
+
+bb_community_nmds <- metaMDS(bb_community_data, distance = "bray", autotransform = F)
+
+bb_community_envfit <- envfit(bb_community_nmds, bb_community_env, permutations = 999) # this fits environmental vectors
+
+bb_community_spp_fit <- envfit(bb_community_nmds, bb_community_data, permutations = 999) # this fits species vectors
+
+
+# To plot the output from the mds using ggplot a new datasheet needs to be created which contains the x,y points for each site. You can do this by calling the scores of you mds.
+
+site.scrs <- as.data.frame(scores(bb_community_nmds, display = "sites")) #save NMDS results into dataframe
+
+site.scrs <- cbind(site.scrs, Year = bb_community_env$sampling_year_yyyy) #add grouping variable "Management" to dataframe
+
+site.scrs <- cbind(site.scrs, Site = bb_community_env$site_code_abcd) #add grouping variable of cluster grouping to dataframe
+
+#site.scrs <- cbind(site.scrs, Site = rownames(site.scrs)) #add site names as variable if you want to display on plot
+
+head(site.scrs)
+
+
+spp.scrs <- as.data.frame(scores(bb_community_spp_fit, display = "vectors")) #save species intrinsic values into dataframe
+
+spp.scrs <- cbind(spp.scrs, Species = rownames(spp.scrs)) #add species names to dataframe
+
+head(spp.scrs)
+
+
+bb_nmds_plot <- ggplot(site.scrs, aes(x = NMDS1, y = NMDS2))+#adds site points to plot, shape determined by Landuse, colour determined by Management
+  coord_fixed()+
+  theme_classic()+ 
+  theme(panel.background = element_rect(fill = NA, colour = "black", size = 1, linetype = "solid"))+
+  labs(colour = "Year", shape = "Site")+ # add legend labels for Management and Landuse
+  theme(legend.position = "right",
+        legend.text = element_text(size = 12),
+        legend.title = element_text(size = 12),
+        axis.text = element_text(size = 10))
+
+bb_nmds_plot + labs(title = "Basic ordination plot") #displays plot
+
+bb_nmds_plot+
+  geom_segment(data = spp.scrs,
+               aes(x = 0, xend = NMDS1, y = 0, yend = NMDS2),
+               arrow = arrow(length = unit(0.25, "cm")), 
+               colour = "grey10", lwd=0.3) + #add vector arrows of significant species
+  ggrepel::geom_text_repel(data = spp.scrs, aes(x = NMDS1, y = NMDS2, label = Species),
+                           cex = 3, direction = "both", segment.size = 0.25)+ #add labels for species, use ggrepel::geom_text_repel so that labels do not overlap
+  labs(title = "Ordination with species vectors")+
+  geom_convexhull(aes(), alpha = 0.3) +
+  geom_point(data = spp.scrs, aes(NMDS1, NMDS2))+
+  facet_grid(.~ Year)
+
+```
+
+# R Markdown Help Tab
+
+This is an R Markdown document. Markdown is a simple formatting syntax
+for authoring HTML, PDF, and MS Word documents. For more details on
+using R Markdown see <http://rmarkdown.rstudio.com>.
+
+-   For a quick reference guide, select: Help -\> Markdown Quick
+    Reference
+
+**The following are different document formats that are followed by the
+Knit function:**
+
+For an HTML document, use the output code:
+
+-   output: html_document
+
+For a Microsoft Word document, use the output code:
+
+-   output: word_document
+
+For a Powerpoint Presentation document, use the output code:
+
+-   output: powerpoint_presentation
+
+For a PDF document, use the output code:
+
+-   output: pdf_document
+
+For an HTML document with variation, use the output code:
+
+-   output: prettydoc::html_pretty
+
+For an HTML document with variation, use the output code, \*note the tab
+spacing:
+
+-   output: 
+      prettydoc::html_pretty: 
+        theme: leonids
+
+For a dashboard, use the output code:
+
+-   output: flexdashboard::flex_dashboard
+
+
+# Exploring a dataset
+
+```{r echo=FALSE}
+
+# ------------------------------------------------------------------------------
+# Explore and visualize data: --------------------------------------------------
+
+# Import data set (read.csv function)
+bird_data <- read.csv("bird_data.csv", header = TRUE)
+
+# View data set (view function)
+view(bird_data)
+
+# Explore entire data set ------------------------------------------------------
+
+# Explore dimensions (dim function) of data set 
+dim(bird_data)
+
+# Explore structure (str function) of data set 
+str(bird_data)
+
+# Explore similar to structure (glimpse function) of data set exploration
+glimpse(bird_data)
+
+# Identify column names of data set (names function)
+names(bird_data)
+
+# Identify number of column variables of data set (length function)
+length(bird_data)
+
+# General summary of data set (summary function)
+summary(bird_data)
+
+# Explore specific variables of the data set -----------------------------------
+
+# Identify a variable's class type (class function)
+class(bird_data$breeding_territories)
+
+# Identify a variable's total length (length function)
+length(bird_data$species_common_name)
+
+# Identify all unique data points from a variable (unique function)
+unique(bird_data$site_code_abcd)
+
+# Identify occurrence of each data point within a variable (table function)
+View(table(bird_data$site_code_abcd))
+
+# View the occurrence of each data point within a variable (view and table function)
+view(sort(table(bird_data$site_name), decreasing = TRUE))
+
+# Explore the occurrence of data under a specific variable (barplot function)
+barplot(sort(table(bird_data$species_common_name), decreasing = TRUE))
+
+# Explore the occurrence of data under a specific variable (boxplot function)
+boxplot(bird_data$breeding_territories)
+
+# Explore the occurrence of data within bins (i.e., 0-5, 5-10) under a specific variable (hist function)
+hist(bird_data$breeding_territories)
+
+```

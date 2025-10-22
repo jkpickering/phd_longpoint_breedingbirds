@@ -1,0 +1,13 @@
+hab_guild,rank,food_item,rank,nest_guild,rank,forage_behavior,rank,cons_status,rank
+lakes and ponds,1,insects,1,burrow,1,aerial dive,1,common bird in steep decline,1
+open woodlands,2,omnivore,2,cavity,2,aerial forager,2,declining,2
+grasslands,3,fish,3,ground,3,bark forager,3,low concern,3
+scrub,4,seeds,4,tree,4,dabbler,4,,
+marshes,5,small animals,5,building,5,flycatching,5,,
+forests,6,fruit,6,shrub,6,foliage gleaner,6,,
+towns,7,birds,7,floating,7,ground forager,7,,
+rivers and streams,8,mammals,8,,,hovering,8,,
+shorelines,9,aquatic invertebrates,9,,,probing,9,,
+,,nectar,10,,,soaring,10,,
+,,plants,11,,,stalking,11,,
+,,,,,,surface dive,12,,

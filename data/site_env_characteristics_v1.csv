@@ -1,0 +1,16 @@
+sitecode,orig_site_name,revised_site_name,dominant_ELC_site_type,dominant_ELC_site_code,site_size_ha,lat_dd,long_dd,siteform
+BGGR,Blue Grass Grassland,Bluegrass - Milkweed Grassland,Open Sand Barren and Dune,SDO,13.7,42.54683528,-80.15939417,Terrestrial
+DCJS,Dry Cottonwood-Juniper Savannah,Dry Cottonwood - Juniper Savannah,Open Sand Barren and Dune,SDO,11.3,42.54345167,-80.11407278,Terrestrial
+DCSD,Dry Cottonwood Sand Dune,Dry Cottonwood Sand Dune,Shrub Shoreline,SHS,10.2,42.54046694,-80.15556778,Terrestrial
+IDSS,Integrating Dune Swale Savannah,Intergrading Dune - Swale Savannah,Treed Sand Barren,SDT,10.9,42.54668694,-80.0616625,Terrestrial
+RARO,Red Ash-Red Oak Savannah,Red Ash - Red Oak Savannah,Deciduous Woodland,WOD,13.1,42.54111889,-80.12026861,Terrestrial
+ROIS,Red Oak-Ironwood Savannah,Red Oak - Ironwood Savannah,Deciduous Woodland,WOD,9.2,42.54186111,-80.11342972,Terrestrial
+ROMF,Red Oak-Sugar Maple Forest,Red Oak - Sugar Maple Forest,Deciduous Woodland,WOD,12.5,42.54845333,-80.16343917,Terrestrial
+ROMS,Red Oak-Sugar Maple Savannah,Red Oak - Sugar Maple Savannah,Deciduous Woodland,WOD,7.9,42.54847139,-80.08443389,Terrestrial
+ROWB,Red Oak-White Birch Savannah,Red Oak - White Birch Savannah,Deciduous Woodland,WOD,8.9,42.54597306,-80.10934694,Terrestrial
+ROWP,Red Oak-White Pine Savannah,Red Oak - White Pine Savannah,Shallow Marsh,MAS,11.4,42.55255472,-80.22009889,Wetland
+SRS1,Sedge-rush Swale #1,Sedge - Rush Swale #1,"Open, Submerged, Floating-Leaved, Mixed",SAO,13.6,42.56430917,-80.27173306,Wetland
+SRS2,Sedge-rush Swale #2,Sedge - Rush Swale #2,Submerged Shallow Aquatic,SAS,14.6,42.56142528,-80.24895694,Wetland
+STDP,Sedge Tamarack Dune Pond,Sedge - Tamarack Dune Pond,Shallow Marsh,MAS,15,42.56294806,-80.2412475,Wetland
+TMSL,Tamarack Slough,Tamarack Slough,Coniferous Forest,FOC,11,42.55216528,-80.1665325,Terrestrial
+WPWC,White Pine-White Cedar Savannah,White Pine - White Cedar Savannah,Coniferous Forest,FOC,12.8,42.56067806,-80.12290972,Terrestrial

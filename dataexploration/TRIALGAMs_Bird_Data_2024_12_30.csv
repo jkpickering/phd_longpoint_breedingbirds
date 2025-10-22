@@ -1,0 +1,715 @@
+site_size_ha,site,site_name,year,year_site,species_banding_code_abcd,species_common_name,abundance,tdensity
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,1991,1991_DCJS,AMCR,American Crow,1,1.934960082
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,1991,1991_DCJS,CHSP,Chipping Sparrow,5.5,1.934960082
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,1991,1991_DCJS,EUST,European Starling,2,1.934960082
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,1991,1991_DCJS,FISP,Field Sparrow,1,1.934960082
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,1991,1991_DCJS,HOWR,House Wren,4.5,1.934960082
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,1991,1991_DCJS,NOFL,Northern Flicker,1,1.934960082
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,1991,1991_DCJS,NOMO,Northern Mockingbird,1,1.934960082
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,1991,1991_DCJS,RWBL,Red-winged Blackbird,1,1.934960082
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,1991,1991_DCJS,SOSP,Song Sparrow,3,1.934960082
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,1991,1991_DCJS,TRES,Tree Swallow,6,1.934960082
+14.6,SRS2,Sedge - Rush Swale #2,1991,1991_SRS2,BHCO,Brown-headed Cowbird,0.25,2.465753425
+14.6,SRS2,Sedge - Rush Swale #2,1991,1991_SRS2,CHSP,Chipping Sparrow,1,2.465753425
+14.6,SRS2,Sedge - Rush Swale #2,1991,1991_SRS2,EAKI,Eastern Kingbird,0.5,2.465753425
+14.6,SRS2,Sedge - Rush Swale #2,1991,1991_SRS2,KILL,Killdeer,2.5,2.465753425
+14.6,SRS2,Sedge - Rush Swale #2,1991,1991_SRS2,RWBL,Red-winged Blackbird,2,2.465753425
+14.6,SRS2,Sedge - Rush Swale #2,1991,1991_SRS2,SPSA,Spotted Sandpiper,1.5,2.465753425
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,AMGO,American Goldfinch,2,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,BAOR,Baltimore Oriole,0.5,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,BRTH,Brown Thrasher,2,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,CEDW,Cedar Waxwing,2,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,CHSP,Chipping Sparrow,5,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,COGR,Common Grackle,1,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,COYE,Common Yellowthroat,14,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,EAKI,Eastern Kingbird,2.5,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,EATO,Eastern Towhee,7,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,FISP,Field Sparrow,12.5,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,MODO,Mourning Dove,2,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,NOFL,Northern Flicker,1,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,REVI,Red-eyed Vireo,1,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,RWBL,Red-winged Blackbird,14,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,WITU,Wild Turkey,0.5,2.612893685
+13.7,BGGR,Bluegrass - Milkweed Grassland,2021,2021_BGGR,YWAR,Yellow Warbler,18.5,2.612893685
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,AMBI,American Bittern,1,2.766819402
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,AMRO,American Robin,0.5,2.766819402
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,BRTH,Brown Thrasher,2,2.766819402
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,CHSP,Chipping Sparrow,4,2.766819402
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,COGR,Common Grackle,1,2.766819402
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,EAKI,Eastern Kingbird,1,2.766819402
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,FISP,Field Sparrow,6,2.766819402
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,HOWR,House Wren,2,2.766819402
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,KILL,Killdeer,0.5,2.766819402
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,MALL,Mallard,1.5,2.766819402
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,RWBL,Red-winged Blackbird,26,2.766819402
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,TRES,Tree Swallow,0.25,2.766819402
+13.6,SRS1,Sedge - Rush Swale #1,2021,2021_SRS1,YWAR,Yellow Warbler,5.5,2.766819402
+10.9,IDSS,Intergrading Dune - Swale Savannah,1991,1991_IDSS,BOBO,Bobolink,1,2.772166673
+10.9,IDSS,Intergrading Dune - Swale Savannah,1991,1991_IDSS,CHSP,Chipping Sparrow,5,2.772166673
+10.9,IDSS,Intergrading Dune - Swale Savannah,1991,1991_IDSS,EAKI,Eastern Kingbird,3,2.772166673
+10.9,IDSS,Intergrading Dune - Swale Savannah,1991,1991_IDSS,EUST,European Starling,5,2.772166673
+10.9,IDSS,Intergrading Dune - Swale Savannah,1991,1991_IDSS,KILL,Killdeer,3,2.772166673
+10.9,IDSS,Intergrading Dune - Swale Savannah,1991,1991_IDSS,MALL,Mallard,1,2.772166673
+10.9,IDSS,Intergrading Dune - Swale Savannah,1991,1991_IDSS,NOMO,Northern Mockingbird,2,2.772166673
+10.9,IDSS,Intergrading Dune - Swale Savannah,1991,1991_IDSS,RWBL,Red-winged Blackbird,2.5,2.772166673
+10.9,IDSS,Intergrading Dune - Swale Savannah,1991,1991_IDSS,SOSP,Song Sparrow,5,2.772166673
+10.9,IDSS,Intergrading Dune - Swale Savannah,1991,1991_IDSS,TRES,Tree Swallow,6,2.772166673
+15,STDP,Sedge - Tamarack Dune Pond,1991,1991_STDP,BAOR,Baltimore Oriole,1,3.434890541
+15,STDP,Sedge - Tamarack Dune Pond,1991,1991_STDP,BCCH,Black-capped Chickadee,1,3.434890541
+15,STDP,Sedge - Tamarack Dune Pond,1991,1991_STDP,COGR,Common Grackle,1,3.434890541
+15,STDP,Sedge - Tamarack Dune Pond,1991,1991_STDP,COYE,Common Yellowthroat,4,3.434890541
+15,STDP,Sedge - Tamarack Dune Pond,1991,1991_STDP,EAKI,Eastern Kingbird,3.5,3.434890541
+15,STDP,Sedge - Tamarack Dune Pond,1991,1991_STDP,HOWR,House Wren,0.5,3.434890541
+15,STDP,Sedge - Tamarack Dune Pond,1991,1991_STDP,RWBL,Red-winged Blackbird,30,3.434890541
+15,STDP,Sedge - Tamarack Dune Pond,1991,1991_STDP,SOSP,Song Sparrow,9,3.434890541
+15,STDP,Sedge - Tamarack Dune Pond,1991,1991_STDP,TRES,Tree Swallow,4,3.434890541
+15,STDP,Sedge - Tamarack Dune Pond,1991,1991_STDP,YWAR,Yellow Warbler,4.5,3.434890541
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,AMGO,American Goldfinch,1,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,AMRE,American Redstart,4,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,AMRO,American Robin,1.5,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,AMWO,American Woodcock,1,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,BAOR,Baltimore Oriole,3,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,BCCH,Black-capped Chickadee,2,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,BGGN,Blue-gray Gnatcatcher,1,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,BHCO,Brown-headed Cowbird,2,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,COGR,Common Grackle,1,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,COYE,Common Yellowthroat,8.5,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,EAKI,Eastern Kingbird,3,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,EAWP,Eastern Wood-pewee,10.5,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,EUST,European Starling,2,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,GCFL,Great Crested Flycatcher,1,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,GRCA,Gray Catbird,4,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,HOWR,House Wren,8.5,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,MODO,Mourning Dove,1.5,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,NOCA,Northern Cardinal,1,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,NOFL,Northern Flicker,1,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,RBWO,Red-bellied Woodpecker,1,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,REVI,Red-eyed Vireo,4,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,RWBL,Red-winged Blackbird,26,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,SOSP,Song Sparrow,8.5,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,SWSP,Swamp Sparrow,2,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,TRES,Tree Swallow,8,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,WAVI,Warbling Vireo,6,4.112108269
+9.2,ROIS,Red Oak - Ironwood Savannah,2001,2001_ROIS,YWAR,Yellow Warbler,17.5,4.112108269
+13.7,BGGR,Bluegrass - Milkweed Grassland,1991,1991_BGGR,BANS,Bank Swallow,4,4.379562044
+13.7,BGGR,Bluegrass - Milkweed Grassland,1991,1991_BGGR,BRTH,Brown Thrasher,1,4.379562044
+13.7,BGGR,Bluegrass - Milkweed Grassland,1991,1991_BGGR,CHSP,Chipping Sparrow,1,4.379562044
+13.7,BGGR,Bluegrass - Milkweed Grassland,1991,1991_BGGR,EAKI,Eastern Kingbird,0.5,4.379562044
+13.7,BGGR,Bluegrass - Milkweed Grassland,1991,1991_BGGR,EAME,Eastern Meadowlark,2.5,4.379562044
+13.7,BGGR,Bluegrass - Milkweed Grassland,1991,1991_BGGR,EUST,European Starling,1,4.379562044
+13.7,BGGR,Bluegrass - Milkweed Grassland,1991,1991_BGGR,FISP,Field Sparrow,4,4.379562044
+13.7,BGGR,Bluegrass - Milkweed Grassland,1991,1991_BGGR,KILL,Killdeer,2,4.379562044
+13.7,BGGR,Bluegrass - Milkweed Grassland,1991,1991_BGGR,NRWS,Northern Rough-winged Swallow,1,4.379562044
+13.7,BGGR,Bluegrass - Milkweed Grassland,1991,1991_BGGR,RWBL,Red-winged Blackbird,14,4.379562044
+13.7,BGGR,Bluegrass - Milkweed Grassland,1991,1991_BGGR,SOSP,Song Sparrow,2.5,4.379562044
+13.7,BGGR,Bluegrass - Milkweed Grassland,1991,1991_BGGR,TRES,Tree Swallow,0.25,4.379562044
+14.6,SRS2,Sedge - Rush Swale #2,2021,2021_SRS2,AMBI,American Bittern,0.5,4.518056765
+14.6,SRS2,Sedge - Rush Swale #2,2021,2021_SRS2,BRTH,Brown Thrasher,0.25,4.518056765
+14.6,SRS2,Sedge - Rush Swale #2,2021,2021_SRS2,CHSP,Chipping Sparrow,2,4.518056765
+14.6,SRS2,Sedge - Rush Swale #2,2021,2021_SRS2,COYE,Common Yellowthroat,2,4.518056765
+14.6,SRS2,Sedge - Rush Swale #2,2021,2021_SRS2,EAKI,Eastern Kingbird,1.5,4.518056765
+14.6,SRS2,Sedge - Rush Swale #2,2021,2021_SRS2,FISP,Field Sparrow,2.5,4.518056765
+14.6,SRS2,Sedge - Rush Swale #2,2021,2021_SRS2,HOWR,House Wren,0.5,4.518056765
+14.6,SRS2,Sedge - Rush Swale #2,2021,2021_SRS2,MAWR,Marsh Wren,0.5,4.518056765
+14.6,SRS2,Sedge - Rush Swale #2,2021,2021_SRS2,RWBL,Red-winged Blackbird,13,4.518056765
+14.6,SRS2,Sedge - Rush Swale #2,2021,2021_SRS2,SOSP,Song Sparrow,2.5,4.518056765
+14.6,SRS2,Sedge - Rush Swale #2,2021,2021_SRS2,YWAR,Yellow Warbler,6,4.518056765
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,AMGO,American Goldfinch,4,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,AMRE,American Redstart,3,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,AMRO,American Robin,1,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,BAOR,Baltimore Oriole,5.5,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,BCCH,Black-capped Chickadee,3,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,BHCO,Brown-headed Cowbird,3,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,CARW,Carolina Wren,1,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,CEDW,Cedar Waxwing,1,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,COGR,Common Grackle,5.5,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,COYE,Common Yellowthroat,9,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,DOWO,Downy Woodpecker,2.5,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,EAKI,Eastern Kingbird,7.5,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,EAWP,Eastern Wood-pewee,14.5,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,EUST,European Starling,7.5,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,GCFL,Great Crested Flycatcher,2,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,GHOW,Great Horned Owl,1,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,HOWR,House Wren,12.5,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,LEFL,Least Flycatcher,4,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,NOCA,Northern Cardinal,1,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,NOFL,Northern Flicker,0.5,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,REVI,Red-eyed Vireo,2,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,RWBL,Red-winged Blackbird,28,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,SOSP,Song Sparrow,19.5,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,SWSP,Swamp Sparrow,1,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,TRES,Tree Swallow,8,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,WAVI,Warbling Vireo,5.5,4.796102469
+9.2,ROIS,Red Oak - Ironwood Savannah,1991,1991_ROIS,YWAR,Yellow Warbler,11.5,4.796102469
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,ABDU,American Black Duck,1,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,AMGO,American Goldfinch,2,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,AMRO,American Robin,2,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,BAOR,Baltimore Oriole,3,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,CAGO,Canada Goose,1,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,CEDW,Cedar Waxwing,1,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,COGR,Common Grackle,2,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,COYE,Common Yellowthroat,0.5,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,EAKI,Eastern Kingbird,3,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,EAWP,Eastern Wood-pewee,3,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,EUST,European Starling,3,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,HOWR,House Wren,5,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,MALL,Mallard,1,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,MAWR,Marsh Wren,4,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,PROW,Prothonotary Warbler,1,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,REVI,Red-eyed Vireo,1,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,RWBL,Red-winged Blackbird,23,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,SOSP,Song Sparrow,16,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,TRES,Tree Swallow,8.5,6.541420829
+11.4,ROWP,Red Oak - White Pine Savannah,1991,1991_ROWP,YWAR,Yellow Warbler,2.5,6.541420829
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,AMGO,American Goldfinch,1,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,AMRO,American Robin,2,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,BAOR,Baltimore Oriole,2,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,BBCU,Black-billed Cuckoo,1,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,BRTH,Brown Thrasher,1,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,CEDW,Cedar Waxwing,1,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,COYE,Common Yellowthroat,6,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,EAKI,Eastern Kingbird,3.5,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,EATO,Eastern Towhee,1,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,EAWP,Eastern Wood-pewee,0.5,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,EWPW,Eastern Whip-poor-will,2,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,FISP,Field Sparrow,2,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,GCFL,Great Crested Flycatcher,1,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,GRCA,Gray Catbird,1,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,HOME,Hooded Merganser,1,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,HOWR,House Wren,3,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,LEFL,Least Flycatcher,1,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,MODO,Mourning Dove,0.5,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,PBGR,Pied-billed Grebe,2,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,RWBL,Red-winged Blackbird,29,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,SOSP,Song Sparrow,6.5,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,WAVI,Warbling Vireo,1,6.712033479
+15,STDP,Sedge - Tamarack Dune Pond,2011,2011_STDP,YWAR,Yellow Warbler,15,6.712033479
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,AMRE,American Redstart,4,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,AMRO,American Robin,3,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,AMWO,American Woodcock,1,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,BAOR,Baltimore Oriole,8,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,BCCH,Black-capped Chickadee,2,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,BHCO,Brown-headed Cowbird,2,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,BLJA,Blue Jay,1,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,CEDW,Cedar Waxwing,1,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,COGR,Common Grackle,4.5,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,COYE,Common Yellowthroat,8.5,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,DOWO,Downy Woodpecker,2,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,EAKI,Eastern Kingbird,4.5,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,EAWP,Eastern Wood-pewee,11.5,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,EUST,European Starling,6.5,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,GCFL,Great Crested Flycatcher,3,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,HOWR,House Wren,7,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,NOCA,Northern Cardinal,1,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,NOFL,Northern Flicker,2,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,REVI,Red-eyed Vireo,4,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,RWBL,Red-winged Blackbird,21.5,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,SOSP,Song Sparrow,15,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,TRES,Tree Swallow,6,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,WAVI,Warbling Vireo,4,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,WBNU,White-breasted Nuthatch,1,7.338917196
+7.9,ROMS,Red Oak - Sugar Maple Savannah,1991,1991_ROMS,YWAR,Yellow Warbler,13,7.338917196
+13.6,SRS1,Sedge - Rush Swale #1,1991,1991_SRS1,EABL,Eastern Bluebird,0.5,7.5
+13.6,SRS1,Sedge - Rush Swale #1,1991,1991_SRS1,EAKI,Eastern Kingbird,1,7.5
+13.6,SRS1,Sedge - Rush Swale #1,1991,1991_SRS1,KILL,Killdeer,2.5,7.5
+13.6,SRS1,Sedge - Rush Swale #1,1991,1991_SRS1,RWBL,Red-winged Blackbird,2.5,7.5
+13.6,SRS1,Sedge - Rush Swale #1,1991,1991_SRS1,SPSA,Spotted Sandpiper,3.5,7.5
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,AMGO,American Goldfinch,1,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,AMRO,American Robin,0.25,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,BAOR,Baltimore Oriole,1,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,BCCH,Black-capped Chickadee,2,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,BHCO,Brown-headed Cowbird,1,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,BLJA,Blue Jay,0.5,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,BRTH,Brown Thrasher,2.5,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,CEDW,Cedar Waxwing,1,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,CHSP,Chipping Sparrow,3,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,COGR,Common Grackle,2,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,COYE,Common Yellowthroat,15,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,EAKI,Eastern Kingbird,4,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,EATO,Eastern Towhee,4.5,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,FISP,Field Sparrow,2.5,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,HOWR,House Wren,2,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,MALL,Mallard,1,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,MODO,Mourning Dove,1.5,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,NOCA,Northern Cardinal,0.5,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,PBGR,Pied-billed Grebe,2,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,RWBL,Red-winged Blackbird,15.5,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,SOSP,Song Sparrow,2,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,TRES,Tree Swallow,3,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,YBCU,Yellow-billed Cuckoo,0.25,8.600176519
+15,STDP,Sedge - Tamarack Dune Pond,2021,2021_STDP,YWAR,Yellow Warbler,17.5,8.600176519
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,AMRO,American Robin,2,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,AMWO,American Woodcock,1,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,BHCO,Brown-headed Cowbird,2,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,BRTH,Brown Thrasher,2,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,CHSP,Chipping Sparrow,11,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,COYE,Common Yellowthroat,1.5,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,EAKI,Eastern Kingbird,3,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,FISP,Field Sparrow,10,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,GRCA,Gray Catbird,3,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,HOWR,House Wren,3,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,NOMO,Northern Mockingbird,2,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,RWBL,Red-winged Blackbird,4,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,SOSP,Song Sparrow,5,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,TRES,Tree Swallow,5,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,WISN,Wilson's Snipe,0.5,9.211674273
+10.9,IDSS,Intergrading Dune - Swale Savannah,2011,2011_IDSS,YWAR,Yellow Warbler,7,9.211674273
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,AMRE,American Redstart,1,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,AMRO,American Robin,6,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,AMWO,American Woodcock,1,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,BAEA,Bald Eagle,1,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,BAOR,Baltimore Oriole,5.5,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,BCCH,Black-capped Chickadee,3,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,BGGN,Blue-gray Gnatcatcher,4,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,BHCO,Brown-headed Cowbird,1,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,BLJA,Blue Jay,0.5,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,COGR,Common Grackle,4,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,COYE,Common Yellowthroat,9.5,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,DOWO,Downy Woodpecker,1,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,EAKI,Eastern Kingbird,8.5,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,EASO,Eastern Screech-Owl,1,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,EAWP,Eastern Wood-pewee,9,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,EUST,European Starling,9,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,GCFL,Great Crested Flycatcher,2,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,GRCA,Gray Catbird,3,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,HOWR,House Wren,18,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,MALL,Mallard,1,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,MODO,Mourning Dove,2,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,NOCA,Northern Cardinal,1,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,NOFL,Northern Flicker,2,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,OROR,Orchard Oriole,1,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,REVI,Red-eyed Vireo,5,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,RWBL,Red-winged Blackbird,39.5,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,SOSP,Song Sparrow,1,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,TRES,Tree Swallow,7,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,VIRA,Virginia Rail,1,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,WAVI,Warbling Vireo,16.5,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,WBNU,White-breasted Nuthatch,2,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,WIFL,Willow Flycatcher,1,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,WODU,Wood Duck,0.5,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,YBCU,Yellow-billed Cuckoo,2,10.60590393
+9.2,ROIS,Red Oak - Ironwood Savannah,2021,2021_ROIS,YWAR,Yellow Warbler,42.5,10.60590393
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,AMWO,American Woodcock,2,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,BAOR,Baltimore Oriole,7,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,BHCO,Brown-headed Cowbird,2,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,BLJA,Blue Jay,2,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,COGR,Common Grackle,1,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,COYE,Common Yellowthroat,6,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,DOWO,Downy Woodpecker,2,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,EAKI,Eastern Kingbird,5.5,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,EATO,Eastern Towhee,2,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,EAWP,Eastern Wood-pewee,7,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,EUST,European Starling,2.5,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,FISP,Field Sparrow,4.5,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,GRCA,Gray Catbird,2,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,HOWR,House Wren,19,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,NOFL,Northern Flicker,1.5,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,REVI,Red-eyed Vireo,2,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,RWBL,Red-winged Blackbird,10,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,SOSP,Song Sparrow,7,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,TRES,Tree Swallow,6,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,WAVI,Warbling Vireo,2,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,YBCU,Yellow-billed Cuckoo,1,11.07056489
+13.1,RARO,Red Ash - Red Oak Savannah,2001,2001_RARO,YWAR,Yellow Warbler,4,11.07056489
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,AMGO,American Goldfinch,0.5,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,AMRO,American Robin,2.5,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,BAOR,Baltimore Oriole,4,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,BGGN,Blue-gray Gnatcatcher,1,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,BHCO,Brown-headed Cowbird,1,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,BLJA,Blue Jay,1,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,BTNW,Black-throated Green Warbler,0.25,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,CHSP,Chipping Sparrow,1,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,COGR,Common Grackle,2,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,COYE,Common Yellowthroat,4,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,DOWO,Downy Woodpecker,1,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,EAKI,Eastern Kingbird,2,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,EAWP,Eastern Wood-pewee,3,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,EUST,European Starling,1,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,EWPW,Eastern Whip-poor-will,1,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,GCFL,Great Crested Flycatcher,3,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,HOWR,House Wren,11,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,MODO,Mourning Dove,1,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,NOFL,Northern Flicker,2,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,RHWO,Red-headed Woodpecker,2,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,RWBL,Red-winged Blackbird,10,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,SOSP,Song Sparrow,3,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,TRES,Tree Swallow,9,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,WAVI,Warbling Vireo,1,11.56272688
+8.9,ROWB,Red Oak - White Birch Savannah,1991,1991_ROWB,YWAR,Yellow Warbler,2.5,11.56272688
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,AMGO,American Goldfinch,2,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,AMWO,American Woodcock,1,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,BAOR,Baltimore Oriole,6,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,BCCH,Black-capped Chickadee,1.5,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,BHCO,Brown-headed Cowbird,3.5,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,BLJA,Blue Jay,1,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,COGR,Common Grackle,4.5,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,COYE,Common Yellowthroat,7,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,DOWO,Downy Woodpecker,2,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,EAKI,Eastern Kingbird,5,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,EATO,Eastern Towhee,1,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,EAWP,Eastern Wood-pewee,9,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,EUST,European Starling,5.5,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,FISP,Field Sparrow,2.5,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,GCFL,Great Crested Flycatcher,2,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,GHOW,Great Horned Owl,0.25,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,GRCA,Gray Catbird,1,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,HAWO,Hairy Woodpecker,1,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,HOWR,House Wren,11.5,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,NOFL,Northern Flicker,1.5,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,REVI,Red-eyed Vireo,3,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,RWBL,Red-winged Blackbird,18,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,SOSP,Song Sparrow,14,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,TRES,Tree Swallow,7,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,WAVI,Warbling Vireo,1,13.78355153
+13.1,RARO,Red Ash - Red Oak Savannah,1991,1991_RARO,YWAR,Yellow Warbler,9.5,13.78355153
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,AMRE,American Redstart,3,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,AMRO,American Robin,3,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,BAEA,Bald Eagle,1,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,BAOR,Baltimore Oriole,3,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,BCCH,Black-capped Chickadee,1,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,BHCO,Brown-headed Cowbird,1,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,BLJA,Blue Jay,2,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,BRTH,Brown Thrasher,0.25,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,CHSW,Chimney Swift,1,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,COGR,Common Grackle,2,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,COYE,Common Yellowthroat,10.5,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,DOWO,Downy Woodpecker,1,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,EAKI,Eastern Kingbird,2,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,EASO,Eastern Screech-Owl,1,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,EATO,Eastern Towhee,1,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,EAWP,Eastern Wood-pewee,4,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,EUST,European Starling,2,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,EWPW,Eastern Whip-poor-will,2,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,GCFL,Great Crested Flycatcher,2,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,GRCA,Gray Catbird,4,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,HOWR,House Wren,10,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,INBU,Indigo Bunting,2,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,MODO,Mourning Dove,4,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,NOFL,Northern Flicker,1,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,RBWO,Red-bellied Woodpecker,1.5,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,REVI,Red-eyed Vireo,8.5,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,RWBL,Red-winged Blackbird,10,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,SCTA,Scarlet Tanager,1,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,SWSP,Swamp Sparrow,1,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,TRES,Tree Swallow,4,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,WBNU,White-breasted Nuthatch,0.25,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,WITU,Wild Turkey,1,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,YBCU,Yellow-billed Cuckoo,3,13.9569379
+8.9,ROWB,Red Oak - White Birch Savannah,2021,2021_ROWB,YWAR,Yellow Warbler,8.5,13.9569379
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,AMGO,American Goldfinch,3,14.89051095
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,BHCO,Brown-headed Cowbird,1,14.89051095
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,BRTH,Brown Thrasher,3.5,14.89051095
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,CEDW,Cedar Waxwing,1,14.89051095
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,CHSP,Chipping Sparrow,2,14.89051095
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,COYE,Common Yellowthroat,5,14.89051095
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,EATO,Eastern Towhee,2,14.89051095
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,FISP,Field Sparrow,11,14.89051095
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,NRWS,Northern Rough-winged Swallow,2,14.89051095
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,RWBL,Red-winged Blackbird,12,14.89051095
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,SOSP,Song Sparrow,2,14.89051095
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,TRES,Tree Swallow,1,14.89051095
+13.7,BGGR,Bluegrass - Milkweed Grassland,2011,2011_BGGR,YWAR,Yellow Warbler,6,14.89051095
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,AMWO,American Woodcock,2,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,BCCH,Black-capped Chickadee,2,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,BGGN,Blue-gray Gnatcatcher,1,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,BHCO,Brown-headed Cowbird,2,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,BRTH,Brown Thrasher,3,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,CEDW,Cedar Waxwing,1,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,CHSP,Chipping Sparrow,17.5,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,COGR,Common Grackle,1,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,COYE,Common Yellowthroat,0.25,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,EAKI,Eastern Kingbird,1.5,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,EATO,Eastern Towhee,6,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,FISP,Field Sparrow,16,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,HOWR,House Wren,0.25,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,MODO,Mourning Dove,1,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,RWBL,Red-winged Blackbird,2,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,TRES,Tree Swallow,2,17.56307702
+11.3,DCJS,Dry Cottonwood - Juniper Savannah,2021,2021_DCJS,YWAR,Yellow Warbler,8,17.56307702
+10.2,DCSD,Dry Cottonwood Sand Dune,2001,2001_DCSD,CHSP,Chipping Sparrow,5.5,20.48076036
+10.2,DCSD,Dry Cottonwood Sand Dune,2001,2001_DCSD,EAKI,Eastern Kingbird,3,20.48076036
+10.2,DCSD,Dry Cottonwood Sand Dune,2001,2001_DCSD,FISP,Field Sparrow,0.5,20.48076036
+10.2,DCSD,Dry Cottonwood Sand Dune,2001,2001_DCSD,NOMO,Northern Mockingbird,0.5,20.48076036
+10.2,DCSD,Dry Cottonwood Sand Dune,2001,2001_DCSD,SOSP,Song Sparrow,1,20.48076036
+10.2,DCSD,Dry Cottonwood Sand Dune,2001,2001_DCSD,TRES,Tree Swallow,3,20.48076036
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,AMRE,American Redstart,1,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,AMRO,American Robin,3,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,AMWO,American Woodcock,1,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,BAEA,Bald Eagle,1,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,BAOR,Baltimore Oriole,7.5,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,BCCH,Black-capped Chickadee,2,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,BGGN,Blue-gray Gnatcatcher,4,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,BHCO,Brown-headed Cowbird,2,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,BLJA,Blue Jay,3,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,CHSW,Chimney Swift,0.25,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,COGR,Common Grackle,3,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,CONI,Common Nighthawk,0.25,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,COYE,Common Yellowthroat,8,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,DOWO,Downy Woodpecker,2,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,EAKI,Eastern Kingbird,7,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,EASO,Eastern Screech-Owl,2,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,EAWP,Eastern Wood-pewee,12,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,EUST,European Starling,2,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,GCFL,Great Crested Flycatcher,3,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,GRCA,Gray Catbird,10,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,HOWR,House Wren,27.5,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,MODO,Mourning Dove,0.5,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,NOCA,Northern Cardinal,1,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,NOFL,Northern Flicker,2,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,RBWO,Red-bellied Woodpecker,1.5,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,REVI,Red-eyed Vireo,14,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,RTHA,Red-tailed Hawk,0.5,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,RTHU,Ruby-throated Hummingbird,1,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,RWBL,Red-winged Blackbird,31.5,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,SOSP,Song Sparrow,1,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,TRES,Tree Swallow,10,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,VIRA,Virginia Rail,1,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,WAVI,Warbling Vireo,15,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,YBCU,Yellow-billed Cuckoo,2,22.5359138
+7.9,ROMS,Red Oak - Sugar Maple Savannah,2021,2021_ROMS,YWAR,Yellow Warbler,47,22.5359138
+10.2,DCSD,Dry Cottonwood Sand Dune,1991,1991_DCSD,BAOR,Baltimore Oriole,0.5,26.43373759
+10.2,DCSD,Dry Cottonwood Sand Dune,1991,1991_DCSD,CHSP,Chipping Sparrow,2,26.43373759
+10.2,DCSD,Dry Cottonwood Sand Dune,1991,1991_DCSD,EAKI,Eastern Kingbird,3.5,26.43373759
+10.2,DCSD,Dry Cottonwood Sand Dune,1991,1991_DCSD,FISP,Field Sparrow,1,26.43373759
+10.2,DCSD,Dry Cottonwood Sand Dune,1991,1991_DCSD,HOWR,House Wren,1,26.43373759
+10.2,DCSD,Dry Cottonwood Sand Dune,1991,1991_DCSD,RWBL,Red-winged Blackbird,4,26.43373759
+10.2,DCSD,Dry Cottonwood Sand Dune,1991,1991_DCSD,TRES,Tree Swallow,3.5,26.43373759
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,AMCR,American Crow,1,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,AMRE,American Redstart,1,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,AMRO,American Robin,1,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,AMWO,American Woodcock,2,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,BAEA,Bald Eagle,1,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,BAOR,Baltimore Oriole,2,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,BCCH,Black-capped Chickadee,1,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,BEKI,Belted Kingfisher,0.25,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,CEDW,Cedar Waxwing,1,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,CHSW,Chimney Swift,1,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,COGR,Common Grackle,3,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,COYE,Common Yellowthroat,10,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,EAKI,Eastern Kingbird,5.5,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,EASO,Eastern Screech-Owl,1,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,EAWP,Eastern Wood-pewee,3,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,EUST,European Starling,2,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,GRCA,Gray Catbird,5,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,GRHE,Green Heron,1,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,HOWR,House Wren,4.5,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,MAWR,Marsh Wren,3,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,MODO,Mourning Dove,4,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,NOCA,Northern Cardinal,2,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,OROR,Orchard Oriole,2,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,REVI,Red-eyed Vireo,2,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,RTHU,Ruby-throated Hummingbird,1,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,RWBL,Red-winged Blackbird,28,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,TRES,Tree Swallow,3,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,WAVI,Warbling Vireo,7,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,WIFL,Willow Flycatcher,0.25,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,WODU,Wood Duck,1,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,YBCU,Yellow-billed Cuckoo,2,27.55471463
+11.4,ROWP,Red Oak - White Pine Savannah,2021,2021_ROWP,YWAR,Yellow Warbler,24,27.55471463
+11,TMSL,Tamarack Slough,2001,2001_TMSL,AMGO,American Goldfinch,1,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,AMRO,American Robin,2,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,AMWO,American Woodcock,2,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,BCCH,Black-capped Chickadee,3,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,BGGN,Blue-gray Gnatcatcher,1,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,BHCO,Brown-headed Cowbird,2,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,BLJA,Blue Jay,1,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,BRTH,Brown Thrasher,2,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,CARW,Carolina Wren,1,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,CEDW,Cedar Waxwing,4,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,CHSP,Chipping Sparrow,3,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,COGR,Common Grackle,4,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,COYE,Common Yellowthroat,5,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,EAKI,Eastern Kingbird,2,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,EATO,Eastern Towhee,4,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,EAWP,Eastern Wood-pewee,1,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,EUST,European Starling,1,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,EWPW,Eastern Whip-poor-will,2,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,GCFL,Great Crested Flycatcher,2,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,GRCA,Gray Catbird,9,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,HOWR,House Wren,6,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,LEFL,Least Flycatcher,2,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,MODO,Mourning Dove,3.5,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,NOCA,Northern Cardinal,1,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,NOFL,Northern Flicker,1,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,RWBL,Red-winged Blackbird,14,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,SOSP,Song Sparrow,3,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,TRES,Tree Swallow,4,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,WEVI,White-eyed Vireo,1,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,WIFL,Willow Flycatcher,1,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,YBCU,Yellow-billed Cuckoo,1,31.29297179
+11,TMSL,Tamarack Slough,2001,2001_TMSL,YWAR,Yellow Warbler,16,31.29297179
+11,TMSL,Tamarack Slough,1991,1991_TMSL,AMGO,American Goldfinch,3,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,AMWO,American Woodcock,2,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,BAOR,Baltimore Oriole,2.5,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,BBCU,Black-billed Cuckoo,1,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,BCCH,Black-capped Chickadee,4,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,BLJA,Blue Jay,1,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,BRTH,Brown Thrasher,3,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,CARW,Carolina Wren,3,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,CEDW,Cedar Waxwing,1,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,CHSP,Chipping Sparrow,1,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,COGR,Common Grackle,6.5,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,COYE,Common Yellowthroat,10.5,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,EAKI,Eastern Kingbird,3,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,EATO,Eastern Towhee,1,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,EAWP,Eastern Wood-pewee,3,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,FISP,Field Sparrow,1,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,GCFL,Great Crested Flycatcher,2,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,GRCA,Gray Catbird,3,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,HOWR,House Wren,10,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,MALL,Mallard,1,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,MODO,Mourning Dove,3.5,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,NOCA,Northern Cardinal,1,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,NOFL,Northern Flicker,0.5,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,RWBL,Red-winged Blackbird,12,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,SOSP,Song Sparrow,10.5,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,SWSP,Swamp Sparrow,1,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,TRES,Tree Swallow,2.5,32.20726216
+11,TMSL,Tamarack Slough,1991,1991_TMSL,YWAR,Yellow Warbler,2,32.20726216
+10.2,DCSD,Dry Cottonwood Sand Dune,2021,2021_DCSD,BCCH,Black-capped Chickadee,1.5,33.05085816
+10.2,DCSD,Dry Cottonwood Sand Dune,2021,2021_DCSD,BGGN,Blue-gray Gnatcatcher,1,33.05085816
+10.2,DCSD,Dry Cottonwood Sand Dune,2021,2021_DCSD,BRTH,Brown Thrasher,1,33.05085816
+10.2,DCSD,Dry Cottonwood Sand Dune,2021,2021_DCSD,CHSP,Chipping Sparrow,4.5,33.05085816
+10.2,DCSD,Dry Cottonwood Sand Dune,2021,2021_DCSD,EAKI,Eastern Kingbird,0.5,33.05085816
+10.2,DCSD,Dry Cottonwood Sand Dune,2021,2021_DCSD,EATO,Eastern Towhee,1,33.05085816
+10.2,DCSD,Dry Cottonwood Sand Dune,2021,2021_DCSD,EWPW,Eastern Whip-poor-will,0.5,33.05085816
+10.2,DCSD,Dry Cottonwood Sand Dune,2021,2021_DCSD,FISP,Field Sparrow,14.5,33.05085816
+10.2,DCSD,Dry Cottonwood Sand Dune,2021,2021_DCSD,HOWR,House Wren,5.5,33.05085816
+10.2,DCSD,Dry Cottonwood Sand Dune,2021,2021_DCSD,RWBL,Red-winged Blackbird,2.5,33.05085816
+10.2,DCSD,Dry Cottonwood Sand Dune,2021,2021_DCSD,TRES,Tree Swallow,0.5,33.05085816
+10.2,DCSD,Dry Cottonwood Sand Dune,2021,2021_DCSD,YWAR,Yellow Warbler,3,33.05085816
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,AMCR,American Crow,0.5,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,AMRO,American Robin,1,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,AMWO,American Woodcock,2,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,BCCH,Black-capped Chickadee,1,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,BRTH,Brown Thrasher,5,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,CHSP,Chipping Sparrow,4,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,COGR,Common Grackle,4,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,EAKI,Eastern Kingbird,2,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,EUST,European Starling,2,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,EWPW,Eastern Whip-poor-will,2,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,FISP,Field Sparrow,11,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,GRCA,Gray Catbird,1,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,HOWR,House Wren,1,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,KILL,Killdeer,1,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,MALL,Mallard,1,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,MODO,Mourning Dove,1,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,NOCA,Northern Cardinal,1,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,RWBL,Red-winged Blackbird,8,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,SOSP,Song Sparrow,2,33.3376688
+10.9,IDSS,Intergrading Dune - Swale Savannah,2021,2021_IDSS,TRES,Tree Swallow,1,33.3376688
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,AMRE,American Redstart,3,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,AMRO,American Robin,2,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,AMWO,American Woodcock,1,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,BAOR,Baltimore Oriole,4,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,BCCH,Black-capped Chickadee,1,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,BGGN,Blue-gray Gnatcatcher,1,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,BHCO,Brown-headed Cowbird,3,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,BLJA,Blue Jay,1,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,COGR,Common Grackle,2,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,COYE,Common Yellowthroat,11.5,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,DOWO,Downy Woodpecker,1,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,EAKI,Eastern Kingbird,3.5,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,EASO,Eastern Screech-Owl,1,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,EATO,Eastern Towhee,1,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,EAWP,Eastern Wood-pewee,4.5,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,EUST,European Starling,1,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,EWPW,Eastern Whip-poor-will,2,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,FISP,Field Sparrow,2,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,GCFL,Great Crested Flycatcher,3,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,GRCA,Gray Catbird,4,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,HOWR,House Wren,20.5,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,INBU,Indigo Bunting,2.5,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,LEFL,Least Flycatcher,1,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,MODO,Mourning Dove,1.5,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,NOCA,Northern Cardinal,1,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,REVI,Red-eyed Vireo,6,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,RWBL,Red-winged Blackbird,16.5,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,SOSP,Song Sparrow,1,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,SWSP,Swamp Sparrow,0.25,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,TRES,Tree Swallow,5,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,WAVI,Warbling Vireo,5,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,WBNU,White-breasted Nuthatch,0.5,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,WITU,Wild Turkey,0.5,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,YBCU,Yellow-billed Cuckoo,1,41.82247633
+13.1,RARO,Red Ash - Red Oak Savannah,2021,2021_RARO,YWAR,Yellow Warbler,28,41.82247633
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,AMRO,American Robin,1,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,BAOR,Baltimore Oriole,4.5,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,BCCH,Black-capped Chickadee,2,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,BHCO,Brown-headed Cowbird,1,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,BLJA,Blue Jay,1,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,BRTH,Brown Thrasher,1.5,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,CAWA,Canada Warbler,1,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,CEDW,Cedar Waxwing,1,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,CHSP,Chipping Sparrow,5,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,COGR,Common Grackle,0.5,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,COYE,Common Yellowthroat,8,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,CWWI,Chuck-will's-widow,1,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,EAKI,Eastern Kingbird,1.5,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,EATO,Eastern Towhee,5,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,EAWP,Eastern Wood-pewee,3,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,FISP,Field Sparrow,2.5,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,GCFL,Great Crested Flycatcher,2,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,GRCA,Gray Catbird,2,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,HOWR,House Wren,20.5,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,MODO,Mourning Dove,2,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,NOFL,Northern Flicker,1,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,RWBL,Red-winged Blackbird,4.5,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,SOSP,Song Sparrow,2.5,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,1991,1991_WPWC,TRES,Tree Swallow,1,46.34465165
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,AMRO,American Robin,3,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,AMWO,American Woodcock,0.5,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,BCCH,Black-capped Chickadee,2,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,BLJA,Blue Jay,1,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,CARW,Carolina Wren,0.5,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,CEDW,Cedar Waxwing,1,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,CHSP,Chipping Sparrow,3.5,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,COGR,Common Grackle,1,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,COYE,Common Yellowthroat,6,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,EAKI,Eastern Kingbird,1.5,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,EASO,Eastern Screech-Owl,0.5,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,EATO,Eastern Towhee,7,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,EAWP,Eastern Wood-pewee,3,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,EWPW,Eastern Whip-poor-will,1,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,GCFL,Great Crested Flycatcher,2,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,GRCA,Gray Catbird,2,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,HAWO,Hairy Woodpecker,0.5,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,HOWR,House Wren,11,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,MODO,Mourning Dove,2.5,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,NOCA,Northern Cardinal,2,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,PIWA,Pine Warbler,2,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,REVI,Red-eyed Vireo,6,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,RWBL,Red-winged Blackbird,0.5,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,SOSP,Song Sparrow,1,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,SSHA,Sharp-shinned Hawk,1,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,YBCU,Yellow-billed Cuckoo,1,65.65324419
+12.8,WPWC,White Pine - White Cedar Savannah,2021,2021_WPWC,YWAR,Yellow Warbler,1.5,65.65324419
+11,TMSL,Tamarack Slough,2021,2021_TMSL,AMRO,American Robin,2.5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,AMWO,American Woodcock,2,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,BCCH,Black-capped Chickadee,3,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,BLJA,Blue Jay,3,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,BRTH,Brown Thrasher,0.5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,CARW,Carolina Wren,2,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,CHSP,Chipping Sparrow,2.5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,COGR,Common Grackle,3.5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,COYE,Common Yellowthroat,10,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,EAKI,Eastern Kingbird,1.5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,EATO,Eastern Towhee,5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,FISP,Field Sparrow,0.5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,GCFL,Great Crested Flycatcher,3.5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,GRCA,Gray Catbird,4,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,GRHE,Green Heron,0.5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,HAWO,Hairy Woodpecker,1,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,HOWR,House Wren,0.25,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,INBU,Indigo Bunting,0.5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,MALL,Mallard,0.25,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,MAWR,Marsh Wren,1.5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,MODO,Mourning Dove,3,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,NOCA,Northern Cardinal,4,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,REVI,Red-eyed Vireo,2,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,RWBL,Red-winged Blackbird,20.5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,SOSP,Song Sparrow,0.5,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,TRES,Tree Swallow,2,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,WODU,Wood Duck,2,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,YBCU,Yellow-billed Cuckoo,3,110.2898237
+11,TMSL,Tamarack Slough,2021,2021_TMSL,YWAR,Yellow Warbler,19,110.2898237
